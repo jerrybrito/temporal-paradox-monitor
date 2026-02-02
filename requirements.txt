@@ -1,0 +1,2 @@
+# Requires: abstract-latency
+# (Not available on PyPI)
